@@ -1,3 +1,5 @@
-# WebMarketing-Project
-Il progetto ‘Recipe market survey’ nasce con lo scopo di svolgere un sondaggio sulle query di ricerca di ricette culinarie effettuate su Google in Italia rispondendo a due domande: 1. “Qual è il volume totale delle query di ricette di cucina in Italia?” 2. “Quali sono i principali siti nel SERP e per quali gruppi di query?” Il punto di partenza della nostra indagine è la valutazione della domanda di mercato prendendo come riferimento una potenziale azienda intenzionata ad aprire un sito web nel settore investendo su un topic competitivo in base alle query più ricercate.
-Si è ritenuto opportuno osservare i trend di ricerca delle keyword, suddivisi in seguito per categoria, per rilevare le strategie di analisi possibili, esaminare i dati tramite distribuzioni riguardanti le preferenze degli utenti ed identificare eventuali criticità di corrispondenza tra la ricerca dell’utente e l’offerta.
+# Technologies for Web Marketing Project
+realized for course Technologies for Web Marketing, Master Degree Data Science and Business Informatics, Università degli Studi di Pisa.
+
+The project ‘Recipe market survey’ has the final aim to make a survey on Google search queries about food recipes.
+
